@@ -1,6 +1,7 @@
 # Installation 
 
 1. Install the composer
+
 composer install
 
 2. copy env file
