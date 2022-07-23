@@ -2,19 +2,23 @@
 
 1. Install the composer
 
-composer install
+   composer install
 
 2. copy env file
-cp .env.example .env
 
-3. Generate key for application
-php artisan key:generate
+   cp .env.example .env
+
+3. Generate key for application 
+
+   php artisan key:generate
 
 4. run the server
-php artisan serve
+
+   php artisan serve
 
 5. open it in web browser
-localhost:8000
+
+   localhost:8000
 
 
 
